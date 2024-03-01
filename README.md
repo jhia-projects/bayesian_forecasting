@@ -1,4 +1,4 @@
-# Bayesian approach to forecasting revenues (EOTHO)
+# Bayesian approach to forecasting revenues
 This project was completed in conjunction with my masters' in applied statistics. Here is the abstract:
 
 How will a new product perform in a new market? This is a core concern for commercial firms as information on this will affect product and marketing strategy, amongst other decisions. 

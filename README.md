@@ -1,5 +1,7 @@
 # Bayesian approach to forecasting revenues
-This project was completed in conjunction with my masters' in applied statistics. Here is the abstract:
+This project was completed in conjunction with my masters' in applied  statistics. The project involved using movie revenues in the UK and US to forecast 1st-week revenue performance in each country, using a Bayesian hierarchical model. I evaluated the forecasting performance against other vanilla ML methods (e.g. random forests, single-layer neural network). I used the JAGS implementation of MCMC and other standard R packages for the ML approaches. 
+
+Here is the abstract:
 
 How will a new product perform in a new market? This is a core concern for commercial firms as information on this will affect product and marketing strategy, amongst other decisions. 
 
